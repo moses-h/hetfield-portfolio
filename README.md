@@ -27,7 +27,7 @@ A beeswarm plot using the same OECD data to show government debt by country over
 
 
 
-And the same data transformed into an area graph, sorted by average debt-to-GDP ratio (unfortunately null values are sorted as zeroes here, so countries that are missing data are sorted lower than they should be):
+And the same data transformed into an area graph, sorted by average debt-to-GDP ratio (unfortunately null values are sorted as zeroes here, so countries that are missing data are sorted lower than they should be). Colors represent continents.
 
 
 
