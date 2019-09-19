@@ -64,7 +64,7 @@ The data here is all from the OECD, as is the first graph. The second and third 
 
 For this assignment, I decided to critique this graph, from a <a href = "https://projects.publicsource.org/pittsburgh-opioid-epidemic/data.html">PublicSource article</a> about the opioid epidemic here in Allegheny County:
 
-![PublicSource Graph](https://github.com/moses-h/hetfield-portfolio/blob/master/original%20naloxone%20graph.jpg)
+![PublicSource Graph](original naloxone graph.jpg)
 
 I LOVE the way this graph looks aesthetically, so my initial reaction to it was positive, but when I looked at it for longer, I saw that its cool design was actually incredibly misleading. While the number of naloxone reversals by police did nearly triple between 2016 and 2017, the chart made it appear that the '17 number was dozens of times higher. As a viewer, I naturally wanted to compare the size of the Naloxone clouds, but the designer made the numbers proportional to height, including the height of the hands, meaning that the clouds were nowhere near proportional. I wanted to remake this graph to be easily comprehended and harder to misconstrue.
   
@@ -77,3 +77,15 @@ After researching the context, I discovered that 2) was the primary explanation 
 One of my first decisions was to include the near-zero data from 2015, which helps frame the two years that follow. I then thought about what type of chart to do. Three data points seemed too small for a line chart - maybe a bar chart, or a table? I sketched a bar chart, which I liked, but then I had to figure out how to title it to provide appropriate context, so viewers wouldn't jump to the wrong conclusions. I initially went with "Allegheny Co. Police become first responders to opioid overdoses." My hope was that this would nudge people towards Explanation #2 from my previous paragraph, that the spike was due to increased police involvement rather than an increase in opioid use, without straying from the data.
 
 ![Sketch #1: Bar Chart](naloxone bar sketch.jpeg)
+
+I asked one of my roommates, a NarCan-trained social worker who works in McKeesport, about my graph. She was able to interpolate from the sketch that the police probably had NarCan training at some point in 2016, which was encouraging. Her response made me feel like my graph was effectively communicating what I wanted it to communicate, and she said nothing in the graph was confusing. While this was comforting, she does have a higher level of expertise on opioids in Allegheny County than most people by nature of her work.
+  
+I then asked a friend of mine (currently a Public Policy undergrad at Stanford) to take a look at it. She responded with similar questions to how I had responded to the original graph:
+"I wonder whether they got more effective at reversing overdoses or the jump is purely due to the escalating opioid problem. I'd be interested in juxtaposing this to the amount of opioid overdose deaths in the same time period."
+
+I fully agreed with her about the potential of such a juxtaposition, and I would have chosen that were I not trying to remake a graph using the same, initial dataset. Instead, I told her what I knew about the context, and we brainstormed possible ways to incorporate the context into the chart. At one point, I sketched this line chart to show when Pittsburgh police began carrying Naloxone:
+![Sketch #2: Line Chart](naloxone line sketch.jpeg)
+  
+  Unfortunately, I only had three data points, and the interesting moment (police starting to carry Narcan) happened halfway between two of them. This had the effect on the chart of making it look like there had already been a steady increase happening before police started carrying the drug, with no difference in slope afterwards. As a result, I scrapped the line chart and went back to a bar chart, with a modified title suggested by my friend and a brief note to provide additional context. At last, I developed this final product:
+  
+  <iframe title="Allegheny Co. police begin reversing opioid overdoses with Naloxone" aria-label="Column Chart" id="datawrapper-chart-bq4D3" src="//datawrapper.dwcdn.net/bq4D3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
