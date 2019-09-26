@@ -28,7 +28,7 @@ I am going to use visualizations to explore the data, so I do not yet know exact
 findings from the quick Excel visualizations I've done since compiling the data:
 * Based on my metric, most schools in PPS are very high-warmth
 * Warmth is necessary but not sufficient for student improvement
-** Students fell behind in every school where a majority of teachers did not describe the working/learning environment positively
-*** This effect is strong enough that, despite a tiny sample size, the difference between schools above and below this threshold is statistically significant for math
-** Once the 50% threshold is crossed for warmth, the relationship between warmth and improvement becomes less clear
-*** Schools with >92% positive reviews from teachers perform significantly WORSE than 50% < warmth <= 92% (p=0.005)
+  * Students fell behind in every school where a majority of teachers did not describe the working/learning environment positively
+   * This effect is strong enough that, despite a tiny sample size, the difference between schools above and below this threshold is statistically significant for math
+  * Once the 50% threshold is crossed for warmth, the relationship between warmth and improvement becomes less clear
+   * Schools with >92% positive reviews from teachers perform significantly WORSE than 50% < warmth <= 92% (p=0.005)
