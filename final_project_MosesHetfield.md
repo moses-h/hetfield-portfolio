@@ -1,12 +1,4 @@
-For my final project, I am planning to examine the relationship between student performance
-and teacher perceptions of their school's learning environment using Pittsburgh Public Schools data.
-
-Last year, I was a substitute teacher for PPS and taught in 22 schools. I spent a lot of time looking at the data on all the schools I
-taught at as well, and saw the numbers come to life as I went into each school.
-
-One data point collected for each school is the percentage of teachers who describe it as a good place to work and learn. I was struck
-by how much high-scoring schools on this metric felt noticeably warmer and friendlier. I noticed that schools with unpleasant environments
-had abysmal test scores, but that pleasant environments were a very mixed bag in terms of student achievement.
+Last year, I was a substitute teacher for PPS and taught in 22 schools. I spent a lot of time looking at school data wherever I taught, and saw the numbers come to life as I went into each school.
 
 Two examples in particular stuck out to me: Allegheny Traditional Academy 6-8 (ATA) and Arsenal 6-8. Both were very friendly, pleasant
 environments where teachers clearly cared about their students. Demographically, both were about 90% black and 90% economically disadvantaged.
@@ -29,6 +21,9 @@ findings from the quick Excel visualizations I've done since compiling the data:
 * Based on my metric, most schools in PPS are very high-warmth
 * Warmth is necessary but not sufficient for student improvement
   * Students fell behind in every school where a majority of teachers did not describe the working/learning environment positively
-   * This effect is strong enough that, despite a tiny sample size, the difference between schools above and below this threshold is statistically significant for math
   * Once the 50% threshold is crossed for warmth, the relationship between warmth and improvement becomes less clear
-   * Schools with >92% positive reviews from teachers perform significantly WORSE than 50% < warmth <= 92% (p=0.005)
+   * Above this threshold, students do significantly better if warmth is BELOW 93%
+I would be interested in looking into which schools fall in which quadrant and if location in this matrix was predictive of anything useful. I also plan to add elementary schools into the mix (skipping them was arbitrary). It looks like the 93% figure still holds for those, although Liberty Elementary - a very authoritarian environment in my experience - would be the one low-warmth high-demand school in the system. I could then illustrate each quadrant with a quote from staff at a school in that quadrant to illustrate it.
+
+My initial auto-generated Excel scatterplot, with some retouching from MS Paint:
+![Horrible Sketch](school dataviz sketch 1.png)
