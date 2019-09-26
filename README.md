@@ -1,5 +1,5 @@
 # hetfield-portfolio
-A portfolio of my work for my "Telling Stories with Data Class"
+A portfolio of my work for my "Telling Stories with Data Class". For my final project, follow [moses-h/hetfield-portfolio/final_project_MosesHetfield](final_project_MosesHetfield).
 
 # About me
 My name is Moses Hetfield (pronouns: he/him) and I am a first-year Master's student at Carnegie Mellon's Heinz College, studying Public Policy, Management, and Data Analytics. Before I started at Heinz, I worked as a substitute teacher for Pittsburgh Public Schools, teaching at 22 schools over the past year. I would say to ask me about Pittsurgh's school system, but I get too excited about it and you'll have trouble getting me to stop talking, so ask at your own risk! I studied history as an undergrad and I love reading both fiction and non-fiction, so I'm always happy to exchange book recommendations. My other hobbies include singing and baking bread.
