@@ -50,3 +50,23 @@ Once I have more of a clear sense of my narrative, I will test different visuali
 After prototyping some charts, I will ask people to look at them and gauge whether they get the message and find it compelling before I start the final version.
 
 I really like Shorthand as a tool for displaying data visualizations and the stories around them, so I plan to use that. I believe that format will allow me to easily incorporate some personal anecdotes from these schools in an engaging way. This is essential for a project like this, which deals with data only inherently interesting to a very niche audience (i.e. Pittsburghers interested in school reform/education policy). Without developing some curiosity or emotional connection among viewers, they will not care about my data visualization. Shorthand allows people to convey information in a way that is conducive to good storytelling by controlling what the viewer sees when, which I hope will help me accomplish this.
+
+
+
+
+# Part II: Final Project Wireframes
+
+Soon after completing Part I, I changed my mind about my topic, because the sample size was too small for me to make a strong claim.
+
+I am now working on Southwestern Pennsylvania Elections in the Trump Era. I spent many hours exploring different aspects of election data from the region and noticed certain things:
+* I started out looking at data for both presidential and gubernatorial elections. While I was able to notice certain trends, the data was pretty messy. But when I tried limiting it to just presidential elections, the data became extremely clean, with very visible (and thus visualizable) trends.
+* The four Southwesternmost counties in Pennsylvania always vote as a bloc, within a few percentage points of each other, and could be combined into one average line without losing much data
+* One theory that I looked at to explain 2016 was that Trump districts were full of racists, but I noticed that Allegheny County (the one blue district in 2016) was the county in the region with the most votes for third-party candidate George Wallace (the "segregation now, segregation forever!" governor of Alabama) at 11%, indicating that Allegheny County had more of a racist voting history than the rest of the region
+  * The evidence about Wallace was contradicted by the 1976 Democratic primary, when Wallace was *less* successful in Allegheny Co. than in the other counties of the region, which led me to abandon that angle as the focus of my presentation.
+* Finally, I noticed that 1984 was a very successful year for Democrats in Southwestern Pennsylvania, even though it was very unsuccessful in the state and country at large
+
+Remembering many articles that talked about Trump winning because of "Reagan Democrats," those white working-class registered Democrats who voted for Reagan in the 1980s, I realized that this narrative did not fit the data in Southwestern Pennsylvania, a key region without which Trump would have lost the state.
+
+
+Here's what I came up with (draft #3):
+![Wireframe](Dataviz wireframe.pdf)
