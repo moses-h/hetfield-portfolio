@@ -70,3 +70,12 @@ Remembering many articles that talked about Trump winning because of "Reagan Dem
 
 Here's what I came up with (draft #3):
 ![Wireframe](Dataviz wireframe.pdf)
+
+My target audience is Pennsylvania Democrats interested in understanding the 2016 election and thinking about tactics for 2020.
+My first test user was not an American citizen and not particularly familiar with the intricacies of American politics. While he was not part of my target audience, his feedback was useful because I want my project to make sense to people who don't follow politics closely. My second and third test users were Heinz students who are registered Democrats. I asked them:
+* What is this about? What is it trying to say?
+* What surprised you?
+* What confused you?
+* What are you curious about?
+
+From there, I allowed it to be a conversation with some back-and-forth. My first user liked the maps and density chart but had trouble discerning an overall message. My second user was confused by the phrasing of the first text slide about Trump's margin in these counties and by the 1984 expected results slide, which looked like it was representing real data when in fact it was theoretical (and contradicted by the next slide). He also noted that Democratic Margin was on the y-axis in one slide and the x-axis on the next, which was confusing. The third user wasn't sure what Butler County was doing in the graphs (I agree - it is distracting and politically very different from the rest of the region). He was confused by the labeling on some charts as well. Both the second and third user felt that the overall message was clear, and they otherwise found the visuals clear and compelling.
