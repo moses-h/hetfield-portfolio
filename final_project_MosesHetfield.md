@@ -69,7 +69,7 @@ Remembering many articles that talked about Trump winning because of "Reagan Dem
 
 
 Here's what I came up with (draft #3):
-![Wireframe](Dataviz wireframe.pdf)
+![Wireframe Title](Wireframe/wireframe 0.jpg)
 
 My target audience is Pennsylvania Democrats interested in understanding the 2016 election and thinking about tactics for 2020.
 My first test user was not an American citizen and not particularly familiar with the intricacies of American politics. While he was not part of my target audience, his feedback was useful because I want my project to make sense to people who don't follow politics closely. My second and third test users were Heinz students who are registered Democrats. I asked them:
