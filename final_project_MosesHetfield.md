@@ -1,4 +1,4 @@
-Link to final product: https://carnegiemellon.shorthandstories.com/trump-sw-pa/index.html
+[LINK TO FINAL PRODUCT](https://carnegiemellon.shorthandstories.com/trump-sw-pa/index.html)
 
 # Outline (original idea)
 
