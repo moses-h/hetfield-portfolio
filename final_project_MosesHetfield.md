@@ -1,3 +1,5 @@
+Link to final product: https://carnegiemellon.shorthandstories.com/trump-sw-pa/index.html
+
 # Outline (original idea)
 
 Last year, I was a substitute teacher for PPS and taught in 22 schools. I spent a lot of time looking at school data wherever I taught, and saw the numbers come to life as I went into each school.
