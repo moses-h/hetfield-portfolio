@@ -70,6 +70,16 @@ Remembering many articles that talked about Trump winning because of "Reagan Dem
 
 Here's what I came up with (draft #3):
 ![Wireframe Title](Wireframe/wireframe 0.jpg)
+![Wireframe 1](Wireframe/wireframe 1.jpg)
+![Wireframe 2](Wireframe/wireframe 2.jpg)
+![Wireframe 3](Wireframe/wireframe 3.jpg)
+![Wireframe 4](Wireframe/wireframe 4.jpg)
+![Wireframe 5](Wireframe/wireframe 5.jpg)
+![Wireframe 6](Wireframe/wireframe 6.jpg)
+![Wireframe 7](Wireframe/wireframe 7.jpg)
+![Wireframe 8](Wireframe/wireframe 8.jpg)
+![Wireframe 9](Wireframe/wireframe 9.jpg)
+![Wireframe 10](Wireframe/wireframe 10.jpg)
 
 My target audience is Pennsylvania Democrats interested in understanding the 2016 election and thinking about tactics for 2020.
 My first test user was not an American citizen and not particularly familiar with the intricacies of American politics. While he was not part of my target audience, his feedback was useful because I want my project to make sense to people who don't follow politics closely. My second and third test users were Heinz students who are registered Democrats. I asked them:
