@@ -1,5 +1,5 @@
 # hetfield-portfolio
-A portfolio of my work for my "Telling Stories with Data Class". For my final project, follow [moses-h/hetfield-portfolio/final_project_MosesHetfield](final_project_MosesHetfield).
+A portfolio of my work for my "Telling Stories with Data Class". For my final project, see [moses-h/hetfield-portfolio/final_project_MosesHetfield](final_project_MosesHetfield).
 
 # About me
 My name is Moses Hetfield (pronouns: he/him) and I am a first-year Master's student at Carnegie Mellon's Heinz College, studying Public Policy, Management, and Data Analytics. Before I started at Heinz, I worked as a substitute teacher for Pittsburgh Public Schools, teaching at 22 schools over the past year. I would say to ask me about Pittsurgh's school system, but I get too excited about it and you'll have trouble getting me to stop talking, so ask at your own risk! I studied history as an undergrad and I love reading both fiction and non-fiction, so I'm always happy to exchange book recommendations. My other hobbies include singing and baking bread.
@@ -51,13 +51,7 @@ I ultimately chose the area graph because it allows the viewer to easily see tre
 
 The data here is all from the OECD, as is the first graph. The second and third graphs were created using RAWGraphs. Colors in the third graph were chosen from ColorBrewer.
   
-    
-    
-#### Some extra visualizations of the OECD data (just for fun)
-  
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1229px; height: 561px;'><object class='tableauViz' width='1229' height='561' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;moseshetfieldstableauportfolio' /><param name='name' value='OECDDebt&#47;GovtDebtinOECDNations' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
-    
-<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1229px; height: 561px;'><object class='tableauViz' width='1229' height='561' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;moseshetfieldstableauportfolio' /><param name='name' value='OECDDebt&#47;OECDGovtDebtHeatmap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
+
 
 
 ## Dataviz Critique & Redesign
